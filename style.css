@@ -99,9 +99,6 @@ body{
     overflow-x: auto;
 }
 
-.content-right::-webkit-scrollbar{
-    display: none;
-}
 
 .product{
     height: 370px;
@@ -147,4 +144,5 @@ body{
     bottom: 0.1%;
     font-weight: 500;
     text-transform: capitalize;
+
 }
